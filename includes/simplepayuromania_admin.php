@@ -67,7 +67,7 @@ function sp_spr_settings() {
             <?php settings_fields( 'sp_spr_settings_group' ); ?>
             <?php do_settings_sections( 'sp_spr_settings_group' ); ?>
             
-            <h2>SagePay Configuration</h2>
+            <h2>PayU Romania Configuration</h2>
 
             <table class="form-table">
                 <tr>
